@@ -1,0 +1,13 @@
+{
+  "name": "ditto",
+  "order": 214,
+  "height": 3,
+  "weight": 40,
+  "id": 132,
+  "baseExperience": 101,
+  "ability": {
+    "name": "limber",
+    "slot": 1,
+    "hidden": false
+  }
+}
